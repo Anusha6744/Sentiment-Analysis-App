@@ -26,16 +26,16 @@ This project experiments with multiple **Machine Learning models** including **L
 
     XGBoost → Good performance, but slower for real-time app
 
-    Final Deployment: Logistic Regression + TF-IDF
+3) Final Deployment: Logistic Regression + TF-IDF
 
-    Saved with Joblib for reusability
+4) Saved with Joblib for reusability
 
 ## Key Insights
 
-Logistic Regression was the most efficient & accurate for text sentiment prediction
+1) Logistic Regression was the most efficient & accurate for text sentiment prediction
 
-Random Forest and XGBoost provided strong benchmarks but were heavier for deployment
+2) Random Forest and XGBoost provided strong benchmarks but were heavier for deployment
 
-TF-IDF captured important textual patterns effectively
+3) TF-IDF captured important textual patterns effectively
 
-Streamlit made deployment easy & interactive
+4) Streamlit made deployment easy & interactive
